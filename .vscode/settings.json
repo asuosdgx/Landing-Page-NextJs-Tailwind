@@ -1,0 +1,7 @@
+{
+    "npm-intellisense.packageSubfoldersIntellisense": true,
+    "npm-intellisense.scanDevDependencies": true,
+    "npm-intellisense.showBuildInLibs": true,
+    "typescript.tsserver.web.projectWideIntellisense.suppressSemanticErrors": true,
+    "terminal.integrated.suggest.enabled": true
+}

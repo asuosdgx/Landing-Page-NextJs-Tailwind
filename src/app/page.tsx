@@ -1,13 +1,19 @@
-import { Hero } from "./_components/hero";
+import { Hero } from "./_components/Hero";
 import About from "./_components/About";
+import { Services } from "./_components/Services";
+import { Testimonials } from "./_components/Testimonials";
+import Footer from "./_components/Footer";
 
-import { WhatsappLogo } from "@phosphor-icons/react";
+
 
 export default function Home() {
   return(
     <main>
       <Hero/>
       <About/>
+      <Services/>
+      <Testimonials/>
+      <Footer/>
     </main>
   )
    
